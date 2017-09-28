@@ -6,7 +6,7 @@ logs/pm2logs/*.log
 logs/*.log
 
 # Build directories
-src/app/dist/public/
+src/app/dist/
 
 # Coverage
 coverage/
