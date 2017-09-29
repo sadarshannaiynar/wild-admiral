@@ -1,6 +1,10 @@
 # Library folders
 node_modules/
 
+# Dist
+dist/
+dist-assets/
+
 # Logs
 logs/pm2logs/*.log
 logs/*.log
